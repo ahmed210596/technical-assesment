@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|c:\\users\\user\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\bookpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\bookpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\publisherpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\publisherpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\publisherpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\publisherpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\memberpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\memberpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\memberpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\memberpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\borrowpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\borrowpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\borrowpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\borrowpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\bookauthorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookauthorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\bookauthorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookauthorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\authorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\authorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\authorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\authorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\bookauthorpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookauthorpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\registrationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\registrationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|C:\\Users\\user\\source\\repos\\libraryManagementSystem\\librarymanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{54009744-CB2D-4B36-B3D6-0FE684CC2FD9}|libraryManagementSystem\\libraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\LoginPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T21:20:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\LoginPage.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\LoginPage.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:58:39.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\MemberPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\MemberPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\MemberPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\MemberPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T18:53:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublisherPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\PublisherPage.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\PublisherPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\PublisherPage.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\PublisherPage.aspx.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAnwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:10:14.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublisherPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\PublisherPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\PublisherPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\PublisherPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\PublisherPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-29T17:07:18.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookPage.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\BookPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookPage.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\BookPage.aspx.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:11:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\BookPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\BookPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-01T19:09:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BorrowPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BorrowPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\BorrowPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BorrowPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\BorrowPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T14:01:06.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Home.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:16:26.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\MemberPage.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\MemberPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\MemberPage.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\MemberPage.aspx.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAiwEgBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:16:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BorrowPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BorrowPage.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\BorrowPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BorrowPage.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\BorrowPage.aspx.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAQwGgBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:13:15.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookAuthorPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookAuthorPage.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\BookAuthorPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookAuthorPage.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\BookAuthorPage.aspx.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAkwJgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:34:30.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\LoginPage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\LoginPage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\LoginPage.aspx.designer.cs",
+              "RelativeToolTip": "libraryManagementSystem\\LoginPage.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:09:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\AuthorPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\AuthorPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\AuthorPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\AuthorPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T17:19:53.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\AuthorPage.aspx.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\AuthorPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\AuthorPage.aspx.cs",
+              "RelativeToolTip": "libraryManagementSystem\\AuthorPage.aspx.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwLkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:03:33.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Home.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\Home.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Home.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T18:01:17.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Site.Master.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Site.Master.cs",
+              "RelativeToolTip": "libraryManagementSystem\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:57:59.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookAuthorPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookAuthorPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\BookAuthorPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookAuthorPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\BookAuthorPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-31T12:35:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Site.Master",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\Site.Master",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Site.Master",
+              "RelativeToolTip": "libraryManagementSystem\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T17:57:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookAuthorPage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookAuthorPage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\BookAuthorPage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\BookAuthorPage.aspx.designer.cs",
+              "RelativeToolTip": "libraryManagementSystem\\BookAuthorPage.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:40:24.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrationPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\RegistrationPage.aspx",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\RegistrationPage.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\RegistrationPage.aspx",
+              "RelativeToolTip": "libraryManagementSystem\\RegistrationPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T21:16:47.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Web.config",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\Web.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Web.config",
+              "RelativeToolTip": "libraryManagementSystem\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-30T16:59:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Global.asax.cs",
+              "RelativeDocumentMoniker": "libraryManagementSystem\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\libraryManagementSystem\\libraryManagementSystem\\Global.asax.cs",
+              "RelativeToolTip": "libraryManagementSystem\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:59:47.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
